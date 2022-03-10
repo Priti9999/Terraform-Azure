@@ -11,3 +11,7 @@ terraform {
 provider "azurerm" {
   features {}
 }
+
+variable "location" {
+  default = "Central India" 
+}
