@@ -1,5 +1,5 @@
 variable "devvar" {
     type = string
-    default = "dev var"
+    default = "dev_var"
 }
 
