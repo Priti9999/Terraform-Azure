@@ -1,5 +1,5 @@
-variable "devvar" {
+variable "rg_priti_dev" {
     type = string
-    default = "dev_var"
+    default = "rg_priti_dev"
 }
 
